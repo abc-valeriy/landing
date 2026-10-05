@@ -9,3 +9,9 @@
 
 Зробити skills секцію: backend, frontend, observability, infrastructure
 Коли курсор наводиться на будь-яку з них то вилазить картка із конкретними скілами і іконками 
+
+# stack
+
+HTML/JS: https://docs.solidjs.com/solid-start/v1/building-your-application/route-prerendering
+CSS: https://medium.com/@mutasimbillahtoha/leveraging-vanilla-extract-and-sprinkles-in-axiom-building-a-type-safe-styling-system-794c9c53f0e7
+Deployment: github pages
